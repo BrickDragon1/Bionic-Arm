@@ -77,7 +77,6 @@ void setup()
   myservo.write(90);
 }
 
-
 void loop()
 {
   
